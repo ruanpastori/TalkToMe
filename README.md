@@ -83,3 +83,51 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 💡 Inspiração
 
 A necessidade de melhorar a comunicação entre população e gestão pública, transformando reclamações em ações reais através da tecnologia.
+-------------------------------------------------------------------------------------------------------------------------
+
+Telas de login Mobile e Desktop
+
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/765d7679-22ba-4f83-8c1a-023967b7df8d" />
+
+
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0be124aa-9924-48fd-9806-a6523d402976" />
+---------------------------------------------------------------------------------------------------------------------------
+
+
+📌Diagrama de caso de uso:
+Um diagrama de caso de uso é um tipo de diagrama da UML que mostra como os usuários interagem com um sistema.
+
+<img width="923" height="985" alt="image" src="https://github.com/user-attachments/assets/79c0543c-055b-4f0c-91ca-53dab64e33ae" />
+
+
+
+📌Diagrama de Sequência: Submissão de Dados
+É um tipo de diagrama que mostra passo a passo como os dados são enviados dentro do sistema, desde o usuário até o processamento final.
+
+<img width="1022" height="982" alt="image" src="https://github.com/user-attachments/assets/152b67ca-390b-4da2-9c8d-cfee5bf752d8" />
+
+
+
+📌Diagrama de Estados: Ciclo de Vida do Registro
+Ciclo de Vida do Registro mostra todas as fases (estados) que um dado passa dentro do sistema, desde que é criado até ser finalizado.
+
+<img width="699" height="974" alt="image" src="https://github.com/user-attachments/assets/e709b82d-82e4-4fbd-b37a-c9d3c579c160" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
