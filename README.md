@@ -95,29 +95,38 @@ Telas de login Mobile e Desktop
 ---------------------------------------------------------------------------------------------------------------------------
 
 
-📌Diagrama de caso de uso:
+📊Diagrama de caso de uso:
 Um diagrama de caso de uso é um tipo de diagrama da UML que mostra como os usuários interagem com um sistema.
 
 <img width="923" height="985" alt="image" src="https://github.com/user-attachments/assets/79c0543c-055b-4f0c-91ca-53dab64e33ae" />
 
 
 
-📌Diagrama de Sequência: Submissão de Dados
+🔄Diagrama de Sequência: Submissão de Dados
 É um tipo de diagrama que mostra passo a passo como os dados são enviados dentro do sistema, desde o usuário até o processamento final.
 
 <img width="1022" height="982" alt="image" src="https://github.com/user-attachments/assets/152b67ca-390b-4da2-9c8d-cfee5bf752d8" />
 
 
 
-📌Diagrama de Estados: Ciclo de Vida do Registro
+🔁Diagrama de Estados: Ciclo de Vida do Registro
 Ciclo de Vida do Registro mostra todas as fases (estados) que um dado passa dentro do sistema, desde que é criado até ser finalizado.
 
 <img width="699" height="974" alt="image" src="https://github.com/user-attachments/assets/e709b82d-82e4-4fbd-b37a-c9d3c579c160" />
 
+--------------------------------------------------------------------------------------------------------------------------
+
+👉Requisitos funcionais:
+são tudo aquilo que o sistema deve fazer na prática.
+
+<img width="947" height="1568" alt="image" src="https://github.com/user-attachments/assets/66c2d549-e16d-4978-9fdc-25b5d3e86fa6" />
 
 
+👉Requisitos não funcionais:
+  São as características que definem como o sistema deve funcionar, e não o que ele faz.
+  Eles tratam de qualidade, desempenho, segurança, usabilidade, confiabilidade, entre outros aspectos.
 
-
+<img width="1080" height="1540" alt="image" src="https://github.com/user-attachments/assets/40f4709a-bbd9-490a-af94-7aed14b21984" />
 
 
 
