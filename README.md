@@ -1,5 +1,12 @@
 # 📱 TalkToMe – Plataforma Inteligente de Demandas Comunitárias
 
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![React Native](https://img.shields.io/badge/React%20Native-mobile-blue)
+![Node.js](https://img.shields.io/badge/Node.js-backend-green)
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 🧠 Sobre o Projeto
 
 O TalkToMe é uma aplicação que conecta moradores de um bairro ou cidade para reportar problemas locais de forma simples e inteligente.
@@ -15,12 +22,15 @@ A ideia surgiu da observação de reclamações recorrentes em jornais sobre pro
    * Áudio
 
 2. 🤖 Uma Inteligência Artificial:
+   
+   ![AI](https://img.shields.io/badge/AI-NLP-purple)
+   ![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
 
    * Analisa os relatos
    * Identifica problemas semelhantes
    * Agrupa ocorrências relacionadas
 
-3. 📊 Sistema de Prioridade:
+4. 📊 Sistema de Prioridade:
 
    * Define nível de urgência
    * Calcula impacto com base no número de pessoas afetadas
@@ -53,10 +63,19 @@ A ideia surgiu da observação de reclamações recorrentes em jornais sobre pro
 
 🧩 Tecnologias Sugeridas
 
+![React Native](https://img.shields.io/badge/React%20Native-mobile-blue)
+![Node.js](https://img.shields.io/badge/Node.js-backend-green)
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-blue)
+
   Frontend: React Native / Flutter
+  
   Backend: Node.js / Python (FastAPI)
+  
   IA / NLP: OpenAI API / TensorFlow / spaCy
+  
   Banco de Dados: PostgreSQL + PostGIS
+  
   Cloud: AWS / Google Cloud / Azure
 
 📸 Exemplo de Uso
