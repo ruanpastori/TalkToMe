@@ -171,6 +171,9 @@ Esboço tela usuario
 
 
 
+Esboço tela Gestor
+
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/db5e9651-3d68-403a-9dcb-f76fe151fff0" />
 
 
 
