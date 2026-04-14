@@ -68,15 +68,15 @@ A ideia surgiu da observação de reclamações recorrentes em jornais sobre pro
 ![Python](https://img.shields.io/badge/Python-AI-blue)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-database-blue)
 
-  Frontend: React Native / Flutter
+  * Frontend: React Native / Flutter
   
-  Backend: Node.js / Python (FastAPI)
+  * Backend: Node.js / Python (FastAPI)
   
-  IA / NLP: OpenAI API / TensorFlow / spaCy
+  * IA / NLP: OpenAI API / TensorFlow / spaCy
   
-  Banco de Dados: PostgreSQL + PostGIS
+  * Banco de Dados: PostgreSQL + PostGIS
   
-  Cloud: AWS / Google Cloud / Azure
+  * Cloud: AWS / Google Cloud / Azure
 
 📸 Exemplo de Uso
 
@@ -102,9 +102,56 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 💡 Inspiração
 
 A necessidade de melhorar a comunicação entre população e gestão pública, transformando reclamações em ações reais através da tecnologia.
--------------------------------------------------------------------------------------------------------------------------
 
-Telas de login Mobile e Desktop
+
+-------------------------------------------------------------------------------------------------------------------------
+📸 Telas do Sistema
+
+👤 Tela do Usuário
+
+📌 Funcionalidades:
+
+* Registrar problemas
+
+* Visualizar ocorrências do bairro
+
+* Curtir / apoiar demandas
+
+* Acompanhar status
+
+* Telas de login Mobile e Desktop
+
+🏛️ Tela do Gestor
+
+📌 Funcionalidades:
+
+* Visualizar problemas prioritários
+
+* Acessar mapa da cidade
+
+* Atualizar status
+
+* Tomar decisões com base em dados
+
+🏠 Home Page
+
+🧩 Funcionalidades (MVP)
+
+ >Cadastro de usuários
+ 
+ >Login
+ 
+ >Registro de problemas
+ 
+ >Upload de imagens/áudio
+ 
+ >Geolocalização
+ 
+ >Feed de ocorrências
+ 
+ >Classificação por prioridade
+ 
+ >Dashboard para gestores
 
 <img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/765d7679-22ba-4f83-8c1a-023967b7df8d" />
 
