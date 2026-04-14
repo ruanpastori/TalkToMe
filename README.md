@@ -110,7 +110,25 @@ Telas de login Mobile e Desktop
 
 
 
+
+
+
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0be124aa-9924-48fd-9806-a6523d402976" />
+
+
+Esboço tela usuario
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/68705c37-4b15-406a-9c52-3cf50ca3bdb3" />
+
+
+
+
+
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 
