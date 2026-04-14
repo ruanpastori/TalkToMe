@@ -86,6 +86,7 @@ A ideia surgiu da observação de reclamações recorrentes em jornais sobre pro
 > O sistema aumenta a prioridade com base na recorrência.
 > O problema sobe na lista de urgência para resolução.
 
+
 🤝 Contribuição
 
 Contribuições são bem-vindas!
@@ -105,7 +106,12 @@ A necessidade de melhorar a comunicação entre população e gestão pública, 
 
 
 -------------------------------------------------------------------------------------------------------------------------
-📸 Telas do Sistema
+
+
+                                          # 📸 Telas do Sistema
+
+
+                                                    
 
 👤 Tela do Usuário
 
@@ -119,7 +125,12 @@ A necessidade de melhorar a comunicação entre população e gestão pública, 
 
 * Acompanhar status
 
-* Telas de login Mobile e Desktop
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/68705c37-4b15-406a-9c52-3cf50ca3bdb3" />
+
+
+
+
+
 
 🏛️ Tela do Gestor
 
@@ -133,25 +144,21 @@ A necessidade de melhorar a comunicação entre população e gestão pública, 
 
 * Tomar decisões com base em dados
 
-🏠 Home Page
+ <img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/db5e9651-3d68-403a-9dcb-f76fe151fff0" />
 
-🧩 Funcionalidades (MVP)
 
- >Cadastro de usuários
+
+
+
+
+
+🏠 Login:
+
+ *Cadastro de usuários
  
- >Login
+ *Login
  
- >Registro de problemas
  
- >Upload de imagens/áudio
- 
- >Geolocalização
- 
- >Feed de ocorrências
- 
- >Classificação por prioridade
- 
- >Dashboard para gestores
 
 <img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/765d7679-22ba-4f83-8c1a-023967b7df8d" />
 
@@ -159,21 +166,12 @@ A necessidade de melhorar a comunicação entre população e gestão pública, 
 
 
 
+ 
+
 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0be124aa-9924-48fd-9806-a6523d402976" />
 
-
-Esboço tela usuario
-
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/68705c37-4b15-406a-9c52-3cf50ca3bdb3" />
-
-
-
-Esboço tela Gestor
-
-<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/db5e9651-3d68-403a-9dcb-f76fe151fff0" />
 
 
 
@@ -183,6 +181,7 @@ Esboço tela Gestor
 
 
 📊Diagrama de caso de uso:
+
 Um diagrama de caso de uso é um tipo de diagrama da UML que mostra como os usuários interagem com um sistema.
 
 <img width="923" height="985" alt="image" src="https://github.com/user-attachments/assets/79c0543c-055b-4f0c-91ca-53dab64e33ae" />
@@ -190,6 +189,7 @@ Um diagrama de caso de uso é um tipo de diagrama da UML que mostra como os usu�
 
 
 🔄Diagrama de Sequência: Submissão de Dados
+
 É um tipo de diagrama que mostra passo a passo como os dados são enviados dentro do sistema, desde o usuário até o processamento final.
 
 <img width="1022" height="982" alt="image" src="https://github.com/user-attachments/assets/152b67ca-390b-4da2-9c8d-cfee5bf752d8" />
@@ -197,6 +197,7 @@ Um diagrama de caso de uso é um tipo de diagrama da UML que mostra como os usu�
 
 
 🔁Diagrama de Estados: Ciclo de Vida do Registro
+
 Ciclo de Vida do Registro mostra todas as fases (estados) que um dado passa dentro do sistema, desde que é criado até ser finalizado.
 
 <img width="699" height="974" alt="image" src="https://github.com/user-attachments/assets/e709b82d-82e4-4fbd-b37a-c9d3c579c160" />
@@ -204,14 +205,20 @@ Ciclo de Vida do Registro mostra todas as fases (estados) que um dado passa dent
 --------------------------------------------------------------------------------------------------------------------------
 
 👉Requisitos funcionais:
+
 são tudo aquilo que o sistema deve fazer na prática.
+
+
 
 <img width="947" height="1568" alt="image" src="https://github.com/user-attachments/assets/66c2d549-e16d-4978-9fdc-25b5d3e86fa6" />
 
 
 👉Requisitos não funcionais:
+
   São as características que definem como o sistema deve funcionar, e não o que ele faz.
   Eles tratam de qualidade, desempenho, segurança, usabilidade, confiabilidade, entre outros aspectos.
+
+  
 
 <img width="1080" height="1540" alt="image" src="https://github.com/user-attachments/assets/40f4709a-bbd9-490a-af94-7aed14b21984" />
 
